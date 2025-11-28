@@ -26,16 +26,7 @@ Também é possível calcular resistência equivalente em série ou paralelo e e
 
 ---
 
-📁 Estrutura do projeto
-📂 CalculadoraResistores
-
- ├── calculadora_resistores.c      # Código-fonte principal
- ├── resultado_resistores.txt      # (Opcional) arquivo de saída gerado pelo programa
- └── README.md                     # Documentação do projeto
-
- ---
-
- ⚙️ Funcionalidades
+⚙️ Funcionalidades
 
 ✔️ Tabela de cores com visualização colorida no console
 
