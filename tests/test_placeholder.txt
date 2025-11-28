@@ -1,0 +1,4 @@
+# Tests
+
+Pasta destinada a cenários de teste e scripts de validação.
+Adicionar casos de teste em C ou scripts conforme o projeto evolui.
