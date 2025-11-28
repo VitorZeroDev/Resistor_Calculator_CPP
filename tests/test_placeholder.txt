@@ -1,4 +1,9 @@
-# Tests
+# Testes do Projeto
 
-Pasta destinada a cenários de teste e scripts de validação.
-Adicionar casos de teste em C ou scripts conforme o projeto evolui.
+Esta pasta armazena scripts, arquivos e casos de teste utilizados para validar
+as funcionalidades da Calculadora de Resistores.
+
+Conforme o projeto evoluir, adicione aqui:
+- Testes unitários (ex.: funções de cálculo)
+- Testes de entrada e validação
+- Testes de comportamento no terminal
