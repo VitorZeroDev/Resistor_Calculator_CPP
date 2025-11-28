@@ -47,7 +47,6 @@ Para compilar usando GCC, cole isso no README:
 gcc src/calculadora_resistores.c -o calculadora
 ```
 
-
 Depois da compilação, será criado:
 
 ```bash
