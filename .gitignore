@@ -1,0 +1,18 @@
+# Compilação
+*.exe
+*.out
+*.o
+
+# VSCode
+.vscode/
+
+# CodeBlocks
+*.layout
+*.depend
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Build
+/build/
